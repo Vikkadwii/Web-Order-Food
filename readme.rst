@@ -7,7 +7,11 @@ balikan halaman web, yang nantinya memakan waktu banyak hanya karena pemilihan
 menunya saja.
 
 Team:
+
 Arta Novrida Lumban Raja - 1303200110
+
 Iqra Rezky Aligrah Muhammad - 1303201130
+
 Imam Sulthoni Santoso - 1303201180
+
 Vikka Dwi Nauli Haro Rajagukguk - 1303204079
