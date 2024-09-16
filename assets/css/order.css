@@ -1,0 +1,56 @@
+.navbar .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(65,53,125,1) 8%, rgba(61,9,121,1) 35%, rgba(174,206,255,1) 100%);
+    margin-top: 0px;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: rgb(28, 1, 28);
+}
+
+.navbar .navbar-brand  {
+	font-size: 25px;
+}
+
+.badge{
+    background-color: rgb(125, 4, 173);
+    color: white;
+}
+
+.badge:hover{
+    color:black;
+}
+
+.order-list{
+    color:rgb(103, 54, 103) ;
+}
+
+.footer {
+	margin-top: 40px;
+
+}
+
+.footer-body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(65,53,125,1) 8%, rgba(61,9,121,1) 35%, rgba(174,206,255,1) 100%);
+   
+}
+
+.judul {
+	margin-bottom: 0px;
+}
+
+script{
+	background-color: purple;
+}
+
+.copyright{
+	color: aliceblue;
+	justify-content: center;
+}
